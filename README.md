@@ -4,6 +4,8 @@ A fast, self-contained unit converter in a single HTML file — no build step, n
 
 Inspired by the classic [Convert for Windows](https://joshmadison.com/convert-for-windows/) by Josh Madison.
 
+<img width="782" height="781" alt="Screenshot 2026-07-08 125758" src="https://github.com/user-attachments/assets/d79cf97e-63f7-4249-8805-fe176d5fc087" />
+
 ## Features
 
 - **17 categories** — Acceleration, Angle, Area, Density, Distance, Flow, Force, Light, Mass, Power, Pressure, Speed, Temperature, Time, Volume, Volume (Dry), and Custom
