@@ -4,7 +4,7 @@ A fast, self-contained unit converter in a single HTML file — no build step, n
 
 Inspired by the classic [Convert for Windows](https://joshmadison.com/convert-for-windows/) by Josh Madison.
 
-<img width="782" height="781" alt="Screenshot 2026-07-08 125758" src="https://github.com/user-attachments/assets/d79cf97e-63f7-4249-8805-fe176d5fc087" />
+<img width="758" height="771" alt="Screenshot 2026-07-08 125758" src="https://github.com/user-attachments/assets/835b1193-5944-4347-9a37-4a7e6294691b" />
 
 ## Features
 
